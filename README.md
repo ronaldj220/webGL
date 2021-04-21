@@ -2,4 +2,4 @@
 
 ini hanyalah Tugas WebGL Terkait Gudang 3D
 
-Link : https://github.com/ronaldj220/webGL
+Link : https://ronaldj220.github.io/webGL/
