@@ -1,3 +1,3 @@
 # webGL
 
-INI ADALAH HASIL UTS Tentang WebGL yang diajarkan oleh Pak Stef
+Ini Adalah Hasil Tentang WebGL yang diajarkan oleh Pak Stef
